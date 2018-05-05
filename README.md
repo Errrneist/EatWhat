@@ -1,6 +1,6 @@
 # Nitro
-* Nitro Coffee...just like Java?
-* LOL it is funny. Uhh...
+* Nitro is a cup of Coffee...just like Java?
+
 ## Special Thanks
 * [Mr. Brett Wortzman](https://www.linkedin.com/in/brett-wortzman-59b58878)
 * [Mr. Stuart Reges](https://www.cs.washington.edu/people/faculty/reges)
