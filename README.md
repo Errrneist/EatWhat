@@ -1,7 +1,10 @@
-# EatWhat (程序员的暴力美学）
-* I wrote this program initially to help myself and my friend to choose a restaurant since none of us have any idea of where to go for the next meal. So this is that "Oh well" program that is free for everyone to use.
-
-## 吃啥子
-* 既然大家都是选择困难症重度患者……
-* 那就用这个程序解救你们吧！
-* （默认University of Washington 西区&Ave 上的餐馆，别的请自行修改）
+# Nitro
+* Nitro Coffee...just like Java?
+* LOL it is funny. Uhh...
+## Special Thanks
+* [Mr. Brett Wortzman](https://www.linkedin.com/in/brett-wortzman-59b58878)
+* [Mr. Stuart Reges](https://www.cs.washington.edu/people/faculty/reges)
+## Java
+### [Project Eat What](https://github.com/Errrneist/Nitro/blob/master/Java/project_eat_what/EatWhat.java)
+* A restaurant picker for University of Washington East Campus students.
+* Since humans aren't good at making decisions.
