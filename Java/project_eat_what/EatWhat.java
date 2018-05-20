@@ -1,4 +1,4 @@
-package com.trinnect.EatWhat;
+
 import java.util.*;
 
 public class EatWhat {
@@ -8,12 +8,13 @@ public class EatWhat {
 				"pokebowl","pokebowl","pokebowl","pokebowl",
 				"Pho","Pho","Pho","Pho","Pho","Pho","Pho","Pho",
 				"豆腐锅","豆腐锅","豆腐锅","豆腐锅","豆腐锅",
-				"老谷","老谷","老谷","老谷","老谷","老谷","老谷","老谷","老谷","老谷",
+				"老谷","老谷","老谷","老谷","老谷","老谷","老谷",
 				"Kitchen","Kitchen",
 				"LP","LP","LP","LP","LP","LP","LP",
 				"Indian Curry","Indian Curry","Indian Curry",
 				"Thai Cusine","Thai Cusine","Thai Cusine",
-				"美心","美心","美心","美心","美心","美心","美心"};
+				"美心","美心","美心","美心","美心","美心","美心",
+				"王一碗", "王一碗", "王一碗", "王一碗", "王一碗", "王一碗", "王一碗", "王一碗", "王一碗"};
 		int totalNumber = food.length;
 		Scanner console = new Scanner(System.in);
 		System.out.println("----------吃啥子----------");
